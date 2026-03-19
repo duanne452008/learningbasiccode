@@ -98,3 +98,11 @@ nav a:hover {
 #reflection-box {
   display: none;
 }
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 15px 0;
+}
